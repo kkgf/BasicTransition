@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\k.konan.CENTRAL\AndroidStudioProjects\BasicTransition\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aba9ec152c7378fa111ce3ee28f6ea740b27a8a2">
+        <dex dex="C:\Users\k.konan.CENTRAL\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_49a6c65f5a88a1abeee74530c021c1cfe7720363\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\k.konan.CENTRAL\AndroidStudioProjects\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\k.konan.CENTRAL\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_b5deaf0b7b0728243da6e885c81ad3d3a0a4acdb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\k.konan.CENTRAL\AndroidStudioProjects\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="C:\Users\k.konan.CENTRAL\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_7442ed0ab19cdc8018fa9965009cb5240e0e4ae2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\k.konan.CENTRAL\AndroidStudioProjects\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="C:\Users\k.konan.CENTRAL\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.3.0_6aa4d629f4e634a10dbc4686222c82b313e71dd1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\k.konan.CENTRAL\AndroidStudioProjects\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\k.konan.CENTRAL\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_6a9d167b9a5fc67cafb417524e0c2f4d53ec58c5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\k.konan.CENTRAL\AndroidStudioProjects\BasicTransition\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dc063c49a75ae5f579c3c288f216e5dbe2a0b829">
+        <dex dex="C:\Users\k.konan.CENTRAL\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_13b9dd199226f511dd6bf4cfd0e59970e6032e2d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\k.konan.CENTRAL\AndroidStudioProjects\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\k.konan.CENTRAL\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_30315fcae9e2eece868843e95324e9767ae35f9b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\k.konan.CENTRAL\android-sdks\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\k.konan.CENTRAL\AndroidStudioProjects\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_91b19819c73c39607d1760b59ec37d6d8602fcb4\classes.dex" />
+    </item>
+
+</items>
